@@ -1,0 +1,6 @@
+projectKey=com.sarvesh:TPC
+serverUrl=http://localhost:9000
+serverVersion=7.9.3.33349
+dashboardUrl=http://localhost:9000/dashboard?id=com.sarvesh%3ATPC
+ceTaskId=AXG_GNZ5EUzldfTguOHZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXG_GNZ5EUzldfTguOHZ

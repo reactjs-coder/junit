@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sarvesh.junit1.controllertest.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.098 s - in com.sarvesh.junit1.controllertest.UserControllerTest

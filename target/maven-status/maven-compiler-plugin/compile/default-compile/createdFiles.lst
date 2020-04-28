@@ -1,0 +1,5 @@
+com\sarvesh\junit1\controller\UserController.class
+com\sarvesh\junit1\Junit1Application.class
+com\sarvesh\junit1\service\UserService.class
+com\sarvesh\junit1\model\User.class
+com\sarvesh\junit1\repository\UserRepository.class
